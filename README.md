@@ -1,5 +1,6 @@
+<div align="center" >  
 ![banner_programacion](https://user-images.githubusercontent.com/91567258/158895920-3599a384-ca9b-4d95-9af0-5b0753bdff53.jpg)
-
+</div>
 <!--
 **Onee12/Onee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
