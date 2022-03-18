@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, Soy Ariel Martinez</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱Actualmente estoy aprendiendo **Python**
+- 🌱Actualmente estoy aprendiendo **Python** y **TypeScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
