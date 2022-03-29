@@ -2,10 +2,11 @@
 <img src="https://user-images.githubusercontent.com/91567258/158895920-3599a384-ca9b-4d95-9af0-5b0753bdff53.jpg"/>
 </p>
 
-<h1 align="center">Hola 👋, Soy Ariel Martinez</h1>
+<h1 align="center">BIENVENIDOS</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 🌱Actualmente estoy aprendiendo **Python** y **TypeScript**
+- 🌱Ademas, formo parte de un emprendiemiento para desarrollar una app enfocada en eventos musicales masivos. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
