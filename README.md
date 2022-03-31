@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 🌱Actualmente estoy aprendiendo **Python** y **TypeScript**
-- 🌱Ademas, formo parte de un emprendiemiento para desarrollar una app enfocada en eventos musicales masivos. 
+- 🌱Ademas, formo parte de un emprendiemiento para desarrollar una app enfocada en eventos masivos. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
