@@ -5,7 +5,7 @@
 <h1 align="center">BIENVENIDOS</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱Actualmente estoy aprendiendo **Python**
+- 🌱Actualmente aprendiendo **Python**
 - 🌱Ademas, formo parte de un emprendimiento para desarrollar una app enfocada en eventos masivos. 
 
 <h3 align="left">Connect with me:</h3>
