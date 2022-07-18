@@ -6,7 +6,7 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 - 🌱Actualmente aprendiendo **Python**
-- 🌱Ademas, formo parte de un emprendimiento para desarrollar una app enfocada en eventos masivos. 
+- 🌱Formo parte de un emprendimiento para solucionar y desarrollar acontecimientos multitudinarios. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
