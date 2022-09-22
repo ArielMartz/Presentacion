@@ -6,7 +6,9 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <h3 align="left">About Me</h3>
+
 - 🌱 En constante aprendizaje sobre **React y Python**
+
 
 - 🛠️ Actualmente formo parte de un proyecto freelance, en conjunto con un centro de emprendimiento para desarrollar una app sobre acontecimientos multitudinarios (eventos). 
 
