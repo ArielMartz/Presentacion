@@ -5,10 +5,14 @@
 <h1 align="center">BIENVENIDOS</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱Actualmente formo parte de un proyecto freelance en conjunto con un centro de emprendimiento para desarrollar una app sobre acontecimientos multitudinarios (eventos). 
+<h3 align="left">About Me</h3>
+- 🌱 En constante aprendizaje sobre **React y Python**
+- 🛠️ Actualmente formo parte de un proyecto freelance, en conjunto con un centro de emprendimiento para desarrollar una app sobre acontecimientos multitudinarios (eventos). 
+- 💻 Todos mis proyectos estan disponibles en: **[Mi Portafolio](https://arielmartz.github.io/PortafolioWeb/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href = "https://www.linkedin.com/in/arielmartz/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
